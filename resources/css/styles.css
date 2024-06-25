@@ -1,0 +1,48 @@
+h1,
+h2 {
+    font-family: monospace;
+    text-align: center;
+    font-weight: bold;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: larger;
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+    
+}
+
+.center th {
+    background-color: aqua;
+}
+
+.center th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.CSS {
+    margin-top: 50px;
+}
+
+.selectors {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: larger;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.selectors th {
+    background-color: aqua;
+}
+
+.selectors th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
